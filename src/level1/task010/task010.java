@@ -1,4 +1,4 @@
-package task01.task010;
+package level1.task010;
 
 /*
 Ну это… С новым годом!

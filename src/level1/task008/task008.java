@@ -1,4 +1,4 @@
-package task01.task008;
+package level1.task008;
 /*
 Подойдет только 20
 */

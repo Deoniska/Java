@@ -1,4 +1,4 @@
-package task01.task009;
+package level1.task009;
 /*
 JavaRush. Learn once - use anywhere
 */

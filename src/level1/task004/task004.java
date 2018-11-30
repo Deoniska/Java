@@ -1,4 +1,4 @@
-package task01.task004;
+package level1.task004;
 /*
 «Я по объявлению…»
 */

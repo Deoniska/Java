@@ -1,4 +1,4 @@
-package task02.task006;
+package level2.lesson_first_old.task006;
 
 /*
 Наш первый конвертер!

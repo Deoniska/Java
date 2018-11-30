@@ -1,4 +1,4 @@
-package task02.task007;
+package level2.lesson_first_old.task007;
 
 /*
 О семейных отношениях

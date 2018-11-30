@@ -1,4 +1,4 @@
-package task01.task002;
+package level1.task002;
 /*
 2 + 3 = 5
 */

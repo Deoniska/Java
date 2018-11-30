@@ -1,4 +1,4 @@
-package task02.task005;
+package level2.lesson_first_old.task005;
 
 /*
 Откуда берутся Person?

@@ -1,4 +1,4 @@
-package task02.task012;
+package level2.lesson_first_old.task012;
 
 /*
 Великолепная восьмерка

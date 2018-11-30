@@ -1,4 +1,4 @@
-package task01.task022;
+package level1.task022;
 
 /*
 Не хочешь  - решай нехотя

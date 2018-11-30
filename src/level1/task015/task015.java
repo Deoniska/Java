@@ -1,4 +1,4 @@
-package task01.task015;
+package level1.task015;
 
 /*
 Лучше поздно, чем никогда: Hello world!

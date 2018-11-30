@@ -1,4 +1,4 @@
-package task01.task019;
+package level1.task019;
 
 /*
 Белеет парус одинокий

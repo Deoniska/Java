@@ -1,4 +1,4 @@
-package task01.task020;
+package level1.task020;
 
 /*
 Любимое стихотворение

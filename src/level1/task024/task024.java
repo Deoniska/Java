@@ -1,4 +1,4 @@
-package task01.task024;
+package level1.task024;
 
 /*
 Просто, как 2+2

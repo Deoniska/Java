@@ -1,4 +1,4 @@
-package task01.task021;
+package level1.task021;
 
 /*
 Большая чистка

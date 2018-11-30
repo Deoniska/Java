@@ -1,4 +1,4 @@
-package task01.task001;
+package level1.task001;
 
     /*
 Баги и фичи

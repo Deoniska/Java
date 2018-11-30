@@ -1,4 +1,4 @@
-package task02.task002;
+package level2.lesson_first_old.task002;
 
 /*
 Прибавка к зарплате

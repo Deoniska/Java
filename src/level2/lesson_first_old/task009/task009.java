@@ -1,4 +1,4 @@
-package task02.task009;
+package level2.lesson_first_old.task009;
 
 /*
 Макс, Белла и Джек

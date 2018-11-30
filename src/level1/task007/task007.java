@@ -1,4 +1,4 @@
-package task01.task007;
+package level1.task007;
 /*
 Выводим квадрат числа
 */

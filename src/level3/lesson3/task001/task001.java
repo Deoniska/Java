@@ -1,4 +1,4 @@
-package level3.lesson3;
+package level3.lesson3.task001;
 /*
 Немедленно в печать
 */

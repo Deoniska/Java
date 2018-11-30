@@ -1,4 +1,4 @@
-package task01.task018;
+package level1.task018;
 
 /*
 Лишние строки нам не нужны

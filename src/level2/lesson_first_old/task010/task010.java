@@ -1,4 +1,4 @@
-package task02.task010;
+package level2.lesson_first_old.task010;
 
 /*
 Необъективная реальность

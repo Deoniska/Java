@@ -1,4 +1,4 @@
-package task01.task003;
+package level1.task003;
 
 /*
 Комментарии излишни

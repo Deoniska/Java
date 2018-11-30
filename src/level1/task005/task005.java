@@ -1,4 +1,4 @@
-package task01.task005;
+package level1.task005;
 
 public class task005 {
     public static void main(String[] args) {

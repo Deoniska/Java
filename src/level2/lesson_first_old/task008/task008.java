@@ -1,4 +1,4 @@
-package task02.task008;
+package level2.lesson_first_old.task008;
 
 /*
 Одного кота нам мало

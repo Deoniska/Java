@@ -1,4 +1,4 @@
-package task01.task016;
+package level1.task016;
 
 /*
 Контракт

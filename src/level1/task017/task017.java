@@ -1,4 +1,4 @@
-package task01.task017;
+package level1.task017;
 
 /*
 Поиск ошибок

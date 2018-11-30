@@ -1,4 +1,4 @@
-package task02.task001;
+package level2.lesson_first_old.task001;
 
 /*
 Реализуем метод print
