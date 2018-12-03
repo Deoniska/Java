@@ -13,5 +13,6 @@ public class task024 {
     public static void sum(int a, int b) {
         int c = a + b;
         System.out.print(c);
+        // ghjgjhgjh
     }
 }
