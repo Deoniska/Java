@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="efcc434f-e3ba-4f5f-af3c-cfd6edce4dc3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/level4/lesson7/task004/task004.java" afterPath="$PROJECT_DIR$/src/level4/lesson7/task004/task004.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,8 +28,8 @@
       <file leaf-file-name="task004.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/level4/lesson7/task004/task004.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="435">
+              <caret line="29" column="30" lean-forward="true" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,8 +40,8 @@
       <file leaf-file-name="task004v2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/level4/lesson7/task004/task004v2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="33" column="18" lean-forward="true" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+            <state relative-caret-position="629">
+              <caret line="42" column="69" lean-forward="false" selection-start-line="41" selection-start-column="8" selection-end-line="42" selection-end-column="69" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -206,93 +207,7 @@
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="level4" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="level4" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson4" type="462c0819:PsiDirectoryNode" />
-              <item name="task004" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="level4" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="level4" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson6" type="462c0819:PsiDirectoryNode" />
-              <item name="task003" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="level4" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson6" type="462c0819:PsiDirectoryNode" />
-              <item name="task004" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="level4" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson6" type="462c0819:PsiDirectoryNode" />
-              <item name="task005" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="level4" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson6" type="462c0819:PsiDirectoryNode" />
-              <item name="task006" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="level4" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson6" type="462c0819:PsiDirectoryNode" />
-              <item name="task007" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="level4" type="462c0819:PsiDirectoryNode" />
               <item name="lesson7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="level4" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson7" type="462c0819:PsiDirectoryNode" />
-              <item name="task001" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="level4" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson7" type="462c0819:PsiDirectoryNode" />
-              <item name="task002" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="level4" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson7" type="462c0819:PsiDirectoryNode" />
-              <item name="task003" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java" type="b2602c69:ProjectViewProjectNode" />
@@ -537,7 +452,7 @@
       <updated>1543895958470</updated>
       <workItem from="1543895960078" duration="4431000" />
       <workItem from="1543916477509" duration="197000" />
-      <workItem from="1543928834953" duration="9095000" />
+      <workItem from="1543928834953" duration="10280000" />
     </task>
     <task id="LOCAL-00001" summary="morning">
       <created>1543897072193</created>
@@ -574,14 +489,22 @@
       <option name="project" value="LOCAL" />
       <updated>1544071678580</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Thursday morning">
+      <created>1544071688312</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1544071688312</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13723000" />
+    <option name="totallyTimeSpent" value="14908000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1417" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -592,7 +515,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -867,7 +790,7 @@
         <state relative-caret-position="30">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -885,7 +808,7 @@
         <state relative-caret-position="240">
           <caret line="16" column="41" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -956,8 +879,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/level4/lesson7/task004/task004v2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="33" column="18" lean-forward="true" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+        <state relative-caret-position="629">
+          <caret line="42" column="69" lean-forward="false" selection-start-line="41" selection-start-column="8" selection-end-line="42" selection-end-column="69" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -966,8 +889,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/level4/lesson7/task004/task004.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="435">
+          <caret line="29" column="30" lean-forward="true" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

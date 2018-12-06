@@ -13,8 +13,11 @@ public class task004 {
         int b = read();
         int c = read();
 
+        count(a,b,c);
 
-        System.out.println(count(a,b,c));
+        System.out.println("количество отрицательных чисел: " + countNumber.neg);
+        System.out.println("количество положительных чисел: " + countNumber.pos);
+
     }
 
     public static countNumber count(int a, int b, int c) {
