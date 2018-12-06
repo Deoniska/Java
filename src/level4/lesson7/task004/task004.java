@@ -1,11 +1,13 @@
 package level4.lesson7.task004;
-
+/*
+Положительные и отрицательные числа
+*/
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
 public class task004 {
-    public static void main (String[] args) throws Exception {
+    public static void main(String[] args) throws Exception {
 
         int a = read();
         int b = read();
@@ -15,7 +17,7 @@ public class task004 {
         System.out.println(count(a,b,c));
     }
 
-    public static int count (int a, int b, int c) {
+    public static countNumber count(int a, int b, int c) {
 
         countNumber number = new countNumber();
 

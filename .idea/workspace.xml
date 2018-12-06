@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efcc434f-e3ba-4f5f-af3c-cfd6edce4dc3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level4/lesson7/task003/task003v3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level4/lesson7/task004/task004" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level4/lesson7/task004/task004.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/level4/lesson7/task004/task004v2.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/level4/lesson7/task003/task003.java" afterPath="$PROJECT_DIR$/src/level4/lesson7/task003/task003.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/level4/lesson7/task004/task004.java" afterPath="$PROJECT_DIR$/src/level4/lesson7/task004/task004.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,8 +29,8 @@
       <file leaf-file-name="task004.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/level4/lesson7/task004/task004.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="225">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -40,11 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="task003v3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/level4/lesson7/task003/task003v3.java">
+      <file leaf-file-name="task004v2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/level4/lesson7/task004/task004v2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="41" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+            <state relative-caret-position="494">
+              <caret line="33" column="18" lean-forward="true" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -152,6 +150,7 @@
         <option value="$PROJECT_DIR$/src/level4/lesson7/task003/task003.java" />
         <option value="$PROJECT_DIR$/src/level4/lesson7/task004/task004" />
         <option value="$PROJECT_DIR$/src/level4/lesson7/task003/task003v3.java" />
+        <option value="$PROJECT_DIR$/src/level4/lesson7/task004/task004v2.java" />
         <option value="$PROJECT_DIR$/src/level4/lesson7/task004/task004.java" />
       </list>
     </option>
@@ -279,6 +278,22 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="level4" type="462c0819:PsiDirectoryNode" />
               <item name="lesson7" type="462c0819:PsiDirectoryNode" />
+              <item name="task001" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="level4" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson7" type="462c0819:PsiDirectoryNode" />
+              <item name="task002" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="level4" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson7" type="462c0819:PsiDirectoryNode" />
               <item name="task003" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -315,7 +330,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.task003v3">
+  <component name="RunManager" selected="Application.task004">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -397,44 +412,6 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="task001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="level4.lesson7.task001.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="level4.lesson7.task001.task001" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Idea" />
-      <envs />
-    </configuration>
-    <configuration name="task002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="level4.lesson7.task002.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="level4.lesson7.task002.task002" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Idea" />
-      <envs />
-    </configuration>
     <configuration name="task003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -492,20 +469,58 @@
       <module name="Idea" />
       <envs />
     </configuration>
+    <configuration name="task004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="level4.lesson7.task004.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="level4.lesson7.task004.task004" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Idea" />
+      <envs />
+    </configuration>
+    <configuration name="task004v2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="level4.lesson7.task004.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="level4.lesson7.task004.task004v2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Idea" />
+      <envs />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.task001" />
-      <item index="1" class="java.lang.String" itemvalue="Application.task002" />
-      <item index="2" class="java.lang.String" itemvalue="Application.task003" />
-      <item index="3" class="java.lang.String" itemvalue="Application.task003v2" />
-      <item index="4" class="java.lang.String" itemvalue="Application.task003v3" />
+      <item index="0" class="java.lang.String" itemvalue="Application.task003" />
+      <item index="1" class="java.lang.String" itemvalue="Application.task003v2" />
+      <item index="2" class="java.lang.String" itemvalue="Application.task003v3" />
+      <item index="3" class="java.lang.String" itemvalue="Application.task004v2" />
+      <item index="4" class="java.lang.String" itemvalue="Application.task004" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.task003v3" />
-        <item index="1" class="java.lang.String" itemvalue="Application.task003v2" />
-        <item index="2" class="java.lang.String" itemvalue="Application.task003" />
-        <item index="3" class="java.lang.String" itemvalue="Application.task002" />
-        <item index="4" class="java.lang.String" itemvalue="Application.task001" />
+        <item index="0" class="java.lang.String" itemvalue="Application.task004" />
+        <item index="1" class="java.lang.String" itemvalue="Application.task004v2" />
+        <item index="2" class="java.lang.String" itemvalue="Application.task003v3" />
+        <item index="3" class="java.lang.String" itemvalue="Application.task003v2" />
+        <item index="4" class="java.lang.String" itemvalue="Application.task003" />
       </list>
     </recent_temporary>
   </component>
@@ -524,7 +539,7 @@
       <updated>1543895958470</updated>
       <workItem from="1543895960078" duration="4431000" />
       <workItem from="1543916477509" duration="197000" />
-      <workItem from="1543928834953" duration="8153000" />
+      <workItem from="1543928834953" duration="9082000" />
     </task>
     <task id="LOCAL-00001" summary="morning">
       <created>1543897072193</created>
@@ -547,15 +562,21 @@
       <option name="project" value="LOCAL" />
       <updated>1543983765417</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Thursday morning">
+      <created>1544070781000</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1544070781000</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12781000" />
+    <option name="totallyTimeSpent" value="13710000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1417" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -566,7 +587,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -596,7 +617,8 @@
     <MESSAGE value="morning" />
     <MESSAGE value="v1" />
     <MESSAGE value="Thursday" />
-    <option name="LAST_COMMIT_MESSAGE" value="Thursday" />
+    <MESSAGE value="Thursday morning" />
+    <option name="LAST_COMMIT_MESSAGE" value="Thursday morning" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -927,10 +949,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/level4/lesson7/task004/task004v2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="33" column="18" lean-forward="true" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/level4/lesson7/task004/task004.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
