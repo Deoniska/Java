@@ -13,7 +13,7 @@ public class task003 {
         String s = sRread();
         int n = nRead();
 
-        for (int i=0; n>0;n--) {
+        for (int i=0; i<n;n--) {
             System.out.println(s);
         }
 

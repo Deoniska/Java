@@ -13,14 +13,13 @@ public class task004 {
         int b = read();
         int c = read();
 
-        count(a,b,c);
+        System.out.println(count(a,b,c));
 
-        System.out.println("количество отрицательных чисел: " + countNumber.neg);
-        System.out.println("количество положительных чисел: " + countNumber.pos);
 
     }
 
     public static countNumber count(int a, int b, int c) {
+
 
         countNumber number = new countNumber();
 
@@ -57,9 +56,15 @@ public class task004 {
 
     public static class countNumber {
 
-        public static int pos;
-        public static int neg;
 
+        private static int pos;
+        private static int neg;
+
+
+        @Override
+        public String toString() {
+            return "количество отрицательных чисел: " + pos  + "\n" + "количество положительных чисел: " + neg;
+        }
     }
 }
 
