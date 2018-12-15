@@ -1,0 +1,10 @@
+Создать класс (Circle) круг, с тремя инициализаторами:
+- centerX, centerY, radius
+- centerX, centerY, radius, width
+- centerX, centerY, radius, width, color
+Требования:
+•	Программа не должна считывать данные с клавиатуры.
+•	У класса Circle должны быть переменные centerX, centerY, radius, width и color с типом int.
+•	У класса должен быть метод initialize, принимающий в качестве параметров centerX, centerY, radius и инициализирующий соответствующие переменные класса.
+•	У класса должен быть метод initialize, принимающий в качестве параметров centerX, centerY, radius, width и инициализирующий соответствующие переменные класса.
+•	У класса должен быть метод initialize, принимающий в качестве параметров centerX, centerY, radius, width, color и инициализирующий соответствующие переменные класса.
